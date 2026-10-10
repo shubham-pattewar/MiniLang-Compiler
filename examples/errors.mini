@@ -1,0 +1,3 @@
+// Change `missing` to a declared variable to make this program valid.
+let result = missing + 3;
+print(result);

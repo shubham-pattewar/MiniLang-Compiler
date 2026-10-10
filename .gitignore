@@ -1,0 +1,5 @@
+build/
+minilang
+minilang.exe
+*.o
+.vscode/

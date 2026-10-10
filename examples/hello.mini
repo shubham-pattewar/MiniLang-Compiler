@@ -1,0 +1,3 @@
+// The classic first program in MiniLang.
+let answer = 40 + 2;
+print(answer);

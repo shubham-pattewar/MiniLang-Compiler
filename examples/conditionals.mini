@@ -1,0 +1,6 @@
+let marks = 75;
+if (marks >= 40) {
+    print(1); // pass
+} else {
+    print(0); // fail
+}
